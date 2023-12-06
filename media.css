@@ -1,0 +1,19 @@
+@media (max-width:991px) {
+    #col-1{
+        border-radius: 10px 10px 0px 0px;
+    }
+    #col-3{
+        background-color: hsl(179, 100%, 13%);
+        padding: 3rem;
+        border-radius: 0px 0px 10px 10px;
+    }
+    .creator{
+        font-size: 13px;
+    }
+    h1{
+        font-size: 40px;
+    }
+    p{
+        font-size: 20px;
+    }
+}
